@@ -12,7 +12,7 @@ window.addEventListener("DOMContentLoaded", function () {
 
   tabs(".tabheader__item", ".tabcontent", ".tabheader__items", "tabheader__item_active");
   modal("[data-modal]", ".modal", modalTimerId);
-  timer(".timer", "2027-09-20");
+  timer(".timer", "2027-12-20");
   cards();
   calc();
   forms("form", modalTimerId);
