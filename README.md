@@ -1,1 +1,1 @@
-An interactive landing page made with HMTL, CSS, and JavaScript. Features sliders, modal windows, an interactive calculator, a timer, tabs, and dynamically rendered elements using REST API technologies.
+An interactive landing page made with HTML, CSS, and JavaScript. Features sliders, modal windows, an interactive calculator, a timer, tabs, and dynamically rendered elements using REST API technologies.
